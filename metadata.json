@@ -1,0 +1,6 @@
+{
+  "name": "ClimaDraft",
+  "description": "Blueprint-style online store for climate equipment with 3D product cards, AI-assistant, and power calculation tools.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
